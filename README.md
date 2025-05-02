@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonswenson
 - 👀 I’m interested in HubSpot
 - 🌱 I’m currently learning VSC, Node.JS
-- 💞️ I’m looking to collaborate on HUBL
+- 💞️ I’m looking to collaborate on HubL
 - 📫 How to reach me swejon@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Favorite country visited is Morocco (right behind Australia)
